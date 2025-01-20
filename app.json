@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "testi2",
-    "slug": "testi2",
+    "name": "modal",
+    "slug": "modal",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
