@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
     padding: 20,
     backgroundColor: 'white',
     alignItems: 'center',
-    backgroundColor: '#f8f8f8', // Slightly darker than white
+    backgroundColor: '#f8f8f8'
   },
   modalText: {
     fontSize: 18,
